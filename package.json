@@ -20,7 +20,7 @@
         "discord.js": "^12.2.0",
         "moment": "^2.24.0"
     },
-    "author": "Michael Dobekidis",
+    "author": "Brad Felix",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/bmfelix/mr_scott_bot/issues"
