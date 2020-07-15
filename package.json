@@ -1,0 +1,29 @@
+{
+    "name": "mr-scott-bot",
+    "version": "1.0.0",
+    "description": "A ffxiv bot for discord",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bmfelix/mr_scott_bot.git"
+    },
+    "keywords": [
+        "discord",
+        "weather",
+        "bot"
+    ],
+    "dependencies": {
+        "axios": "^0.19.2",
+        "discord.js": "^12.2.0",
+        "moment": "^2.24.0"
+    },
+    "author": "Michael Dobekidis",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/bmfelix/mr_scott_bot/issues"
+    },
+    "homepage": "https://github.com/bmfelix/mr_scott_bot/#readme"
+}
